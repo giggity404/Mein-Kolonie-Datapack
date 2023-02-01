@@ -1,0 +1,16 @@
+{
+    "branch": "minecolonies:civilian",
+    "name": "Cutting Board",
+    "researchLevel": 1,
+    "subtitle": "Teaches the assistant cook relevant cutting board recipes. This research adds 18 crafting recipes to the restaurant, make sure there is space!",
+    "requirements": [
+        {
+            "building": "cook",
+            "level": 3
+        },
+        {
+            "item": "farmersdelight:cutting_board",
+            "quantity": 1
+        }
+    ]
+  }

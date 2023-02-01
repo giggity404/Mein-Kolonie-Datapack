@@ -1,0 +1,19 @@
+{
+    "type" : "recipe",
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+        {
+            "item" : "farmersdelight:cabbage_leaf",
+            "count": 1
+        },
+        {
+            "item" : "minecraft:egg",
+            "count": 1
+        }
+    ],
+    "result": "farmersdelight:cabbage_rolls",
+    "count": 1,
+    "intermediate": "farmersdelight:cooking_pot",
+    "min-building-level": 5,
+    "research-id": "meinkolonie:civilian/cookingpotrecipes"
+  }

@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:honey_bottle",
+        "minecraft:golden_apple",
+        "statues:royal_nugget",
+        "farmersdelight:dog_food",
+        "minecraft:golden_carrot",
+        "minecraft:golden_carrot"
+    ]
+  }

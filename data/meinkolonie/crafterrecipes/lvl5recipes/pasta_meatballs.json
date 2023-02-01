@@ -1,0 +1,27 @@
+{
+    "type" : "recipe",
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+        {
+            "item" : "farmersdelight:minced_beef",
+            "count": 1
+        },
+        {
+            "item" : "farmersdelight:raw_pasta",
+            "count": 1
+        },
+        {
+            "item" : "farmersdelight:tomato_sauce",
+            "count": 1
+        },
+        {
+            "item" : "minecraft:bowl",
+            "count": 1
+        }
+    ],
+    "result": "farmersdelight:pasta_with_meatballs",
+    "count": 1,
+    "intermediate": "farmersdelight:cooking_pot",
+    "min-building-level": 5,
+    "research-id": "meinkolonie:civilian/cookingpotrecipes"
+  }

@@ -1,0 +1,25 @@
+{
+    "type" : "recipe",
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+      {
+          "item" : "farmersdelight:iron_knife",
+          "count": 1
+      },
+      {
+          "item" : "farmersdelight:wheat_dough",
+          "count": 1
+      }
+    ],
+    "result": "farmersdelight:raw_pasta",
+    "count": 1,
+    "additional-output":  [
+      {
+          "item" : "farmersdelight:iron_knife",
+          "count": 1
+      }
+    ],
+    "intermediate": "farmersdelight:cutting_board",
+    "min-building-level": 3,
+    "research-id": "meinkolonie:civilian/cuttingboardrecipes"
+  }

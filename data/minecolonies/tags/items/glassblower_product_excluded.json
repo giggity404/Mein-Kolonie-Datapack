@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:daylight_detector",
+        "minecraft:end_crystal"
+    ]
+  }

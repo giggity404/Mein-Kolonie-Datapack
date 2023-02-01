@@ -1,0 +1,25 @@
+{
+    "type" : "recipe",
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+      {
+          "item" : "farmersdelight:iron_knife",
+          "count": 1
+      },
+      {
+          "item" : "minecraft:cake",
+          "count": 1
+      }
+    ],
+    "result": "farmersdelight:cake_slice",
+    "count": 7,
+    "additional-output":  [
+      {
+          "item" : "farmersdelight:iron_knife",
+          "count": 1
+      }
+    ],
+    "intermediate": "farmersdelight:cutting_board",
+    "min-building-level": 3,
+    "research-id": "meinkolonie:civilian/cuttingboardrecipes"
+  }

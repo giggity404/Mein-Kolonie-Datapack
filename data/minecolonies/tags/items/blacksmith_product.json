@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "decorative_blocks:brazier",
+        "decorative_blocks:soul_brazier",
+        "decorative_blocks:bar_panel",
+        "decorative_blocks:chain"
+    ]
+}

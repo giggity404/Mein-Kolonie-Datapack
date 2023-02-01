@@ -1,0 +1,17 @@
+{
+    "branch": "minecolonies:civilian",
+    "parentResearch": "meinkolonie:civilian/cuttingboardrecipes",
+    "name": "Cooking Pot",
+    "researchLevel": 2,
+    "subtitle": "Teaches the assistant cook most cooking pot recipes. This research adds 24 crafting recipes to the restaurant, make sure there is space!",
+    "requirements": [
+        {
+            "building": "cook",
+            "level": 4
+        },
+        {
+            "item": "farmersdelight:cooking_pot",
+            "quantity": 1
+        }
+    ]
+  }
