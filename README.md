@@ -26,6 +26,6 @@ A datapack integrating different mods with minecolonies
 
 #### New Advancments
 -Added hidden advancements for poor colony management, eg hitting your citizens  
--Added guard armor achievements, triggered by interacting with them when wearing it (full gold, full diamond, full netherite, full plate with netherite sword, full neptunium)  
+-Added guard armor achievements, triggered by interacting with them when wearing it (full gold, full diamond, full netherite, full plate with netherite sword & shield, full neptunium)  
 -Added raid loot advancement for scimitar, spear and spectre  
 -Added location advancement for walking through a naturally gen abandoned colony
