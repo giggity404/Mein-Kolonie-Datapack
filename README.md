@@ -14,7 +14,7 @@ A datapack integrating different mods with minecolonies
 #### New item tags   *( allow/prevents recipes being taught manually)* 
   -Adds rotten flesh to prepared leather recipe for fletcher, prepared leather-to-leather to smelter  
   -Adds smallships recipes to sawmill  
-    -Adds tree bark & straw as ingredients to sawmill  
+  -Adds tree bark & straw as ingredients to sawmill  
   -Adds organic compost recipes to farmer  
   -Adds iron based DecoraviteBlocks mod items to blacksmith  
   -Adds several Farmers Delight items to compostables list  
@@ -23,3 +23,9 @@ A datapack integrating different mods with minecolonies
 #### New Loot tables
 -Adds aquaculture neptunium loot table to bonus5 fisherman loot table, with Neptunes Bounty Research as a condition  
 -Changes the enchanter loot table to the enchanting table mechanics, to easily include all modded enchantments, the enchanting level is adjusted for each enchanter level. A mending buff is added as it would be very rare without it. They are converted to single enchantments to overriding all enchantments after position [0] with an empty string. This may be changed to manually listing all enchantment and its weight at a later date.  
+
+#### New Advancments
+-Added hidden advancements for poor colony management, eg hitting your citizens  
+-Added guard armor achievements, triggered by interacting with them when wearing it (full gold, full diamond, full netherite, full plate with netherite sword, full neptunium)  
+-Added raid loot advancement for scimitar, spear and spectre  
+-Added location advancement for walking through a naturally gen abandoned colony
