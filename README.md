@@ -8,7 +8,7 @@ A datapack integrating several mods from the [Mein-Kolonie Modpack](https://www.
   -Swifty: allows enchanter to produce swift sneak enchantment, which is limited on the restricted map size [not yet implemented but [will be soon](https://github.com/ldtteam/minecolonies/pull/8929)]  
     
 #### New custom Recipes   *(recipes that get taught automatically)* 
-  -Most cooking board and cooking pot recipe, not all ingredient combinations are possible as the request system is confused by products with many different recipes. It will request the first version of the recipe in their list of crafting recipes. Their order can be changed with the arrows in the restaurant GUI. Check which versions are available from the JustEnoughItems interface  
+  -Most cooking board and cooking pot recipe, not all ingredient combinations are possible as the request system only requests ingredients for first version. It will request the first version of the recipe in their list of crafting recipes. Their order can be changed with the arrows in the restaurant GUI. Check which versions are available from the JustEnoughItems interface  
   -Forester stripped log/wood recipes now produce tree bark  
     
 #### New item tags   *( allow/prevents recipes being taught manually)* 
