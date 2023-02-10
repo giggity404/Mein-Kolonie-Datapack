@@ -1,5 +1,5 @@
 ### Mein-Kolonie-Datapack
-A datapack integrating different mods with minecolonies
+A datapack integrating several mods from the [Mein-Kolonie Modpack](https://www.curseforge.com/minecraft/modpacks/mein-kolonie) with minecolonies
 
 #### New Research:
   -Cutting board: adds cooking related Farmers Delight recipes they wouldn't otherwise be able to learn  
