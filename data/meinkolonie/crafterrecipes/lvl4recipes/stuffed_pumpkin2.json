@@ -1,0 +1,39 @@
+{
+    "type" : "recipe",
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+        {
+            "item" : "farmersdelight:rice",
+            "count": 1
+        },
+        {
+            "item" : "farmersdelight:onion",
+            "count": 1
+        },
+        {
+            "item" : "minecraft:brown_mushroom",
+            "count": 1
+        },
+        {
+            "item" : "minecraft:potato",
+            "count": 1
+        },
+        {
+            "item" : "minecraft:sweet_berries",
+            "count": 1
+        },
+        {
+            "item" : "minecraft:carrot",
+            "count": 1
+        },
+        {
+            "item" : "minecraft:pumpkin",
+            "count": 1
+        }
+    ],
+    "result": "farmersdelight:stuffed_pumpkin_block",
+    "count": 1,
+    "intermediate": "farmersdelight:cooking_pot",
+    "min-building-level": 4,
+    "research-id": "meinkolonie:civilian/cookingpotrecipes"
+  }

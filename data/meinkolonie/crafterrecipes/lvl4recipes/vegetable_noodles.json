@@ -1,0 +1,35 @@
+{
+    "type" : "recipe",
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+        {
+            "item" : "minecraft:carrot",
+            "count": 1
+        },
+        {
+            "item" : "farmersdelight:cabbage_leaf",
+            "count": 1
+        },
+        {
+            "item" : "minecraft:brown_mushroom",
+            "count": 1
+        },
+        {
+            "item" : "farmersdelight:raw_pasta",
+            "count": 1
+        },
+        {
+            "item" : "minecraft:potato",
+            "count": 1
+        },
+        {
+            "item" : "minecraft:bowl",
+            "count": 1
+        }
+    ],
+    "result": "farmersdelight:vegetable_noodles",
+    "count": 1,
+    "intermediate": "farmersdelight:cooking_pot",
+    "min-building-level": 4,
+    "research-id": "meinkolonie:civilian/cookingpotrecipes"
+  }
