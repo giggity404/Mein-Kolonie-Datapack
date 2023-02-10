@@ -16,7 +16,7 @@
     ],
     "effects": [
         {
-          "minecolonies:effects/neptunesblessing": 1
+          "meinkolonie:effects/neptunesblessing": 1
         }
       ]
   }
