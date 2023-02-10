@@ -1,0 +1,18 @@
+{
+    "branch": "minecolonies:technology",
+    "parentResearch": "minecolonies:technology/softshoes",
+    "researchLevel": 2,
+    "subtitle": "com.minecolonies.research.technology.rainman.subtitle",
+    "icon": "minecraft:splash_potion",
+    "requirements": [
+      {
+        "item": "minecraft:tadpole_bucket",
+        "quantity": 1
+      }
+    ],
+    "effects": [
+      {
+        "minecolonies:effects/workinginrainunlock": 1
+      }
+    ]
+  }
