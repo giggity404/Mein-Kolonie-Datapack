@@ -1,0 +1,26 @@
+{
+    "parent": "meinkolonie:military/obtainspear",
+    "display": {
+        "icon": {
+          "item": "minecolonies:pharaoscepter"
+        },
+        "title": "Pharaoh Scepter",
+        "description": "Obtain a Scepter from a mummified Pharaoh",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+      },
+    "criteria": {
+        "example": {
+          "trigger": "minecraft:inventory_changed",
+          "conditions": {
+            "items": [
+                {
+                    "items": ["minecolonies:pharaoscepter"]
+                }
+            ]
+          }
+        }
+      }
+  }

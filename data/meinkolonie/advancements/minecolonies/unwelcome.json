@@ -1,0 +1,31 @@
+{
+  "parent": "meinkolonie:minecolonies/hurtcitizen",
+    "display": {
+        "icon": {
+          "item": "farmersdelight:rotten_tomato"
+        },
+        "title": "I told you Francis, this was a horrible place for our honeymoon",
+        "description": "Throw rotten tomatoes at tavern visitors",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+      },
+    "criteria": {
+      "example": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "damage": {
+            "type": {
+                "direct_entity": {
+                    "type": "farmersdelight:rotten_tomato"
+                  }
+            }
+          },
+          "entity": {
+            "type": "minecolonies:visitor"
+          }
+        }
+      }
+    }
+  }

@@ -1,0 +1,38 @@
+{
+    "parent": "minecolonies:military/root",
+      "display": {
+          "icon": {
+            "item": "minecraft:golden_helmet"
+          },
+          "title": "Glistening Guard",
+          "description": "Interact with your guard wearing full golden armor",
+          "frame": "task",
+          "show_toast": true,
+          "announce_to_chat": true,
+          "hidden": false
+        },
+        "criteria": {
+          "example": {
+            "trigger": "minecraft:player_interacted_with_entity",
+            "conditions": {
+              "entity": {
+                "type": "minecolonies:citizen",
+                "equipment": {
+                    "head": {
+                        "items":["minecraft:golden_helmet"]
+                    },
+                    "chest": {
+                        "items":["minecraft:golden_chestplate"]
+                    },
+                    "legs": {
+                        "items":["minecraft:golden_leggings"]
+                    },
+                    "feet": {
+                        "items":["minecraft:golden_boots"]
+                    }
+                }
+              }
+            }
+          }
+        }
+    }

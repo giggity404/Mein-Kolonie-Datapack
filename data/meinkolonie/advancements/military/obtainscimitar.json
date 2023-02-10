@@ -1,0 +1,26 @@
+{
+    "parent": "minecolonies:military/root",
+    "display": {
+        "icon": {
+          "item": "minecolonies:iron_scimitar"
+        },
+        "title": "Pirate Scimitar",
+        "description": "Defeat a Pirate captain and steal his weapon",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+      },
+    "criteria": {
+        "example": {
+          "trigger": "minecraft:inventory_changed",
+          "conditions": {
+            "items": [
+                {
+                    "items": ["minecolonies:iron_scimitar"]
+                }
+            ]
+          }
+        }
+      }
+  }

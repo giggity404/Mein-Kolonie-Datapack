@@ -1,0 +1,23 @@
+{
+  "parent": "minecolonies:minecolonies/root",
+    "display": {
+        "icon": {
+          "item": "decorative_blocks:chain"
+        },
+        "title": "Ruling with an Iron fist",
+        "description": "Hit your citizens to keep them in line",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+      },
+    "criteria": {
+      "example": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecolonies:citizen"
+          }
+        }
+      }
+    }
+  }

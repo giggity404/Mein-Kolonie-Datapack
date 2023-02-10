@@ -1,0 +1,44 @@
+{
+    "parent": "meinkolonie:military/netheriteguard",
+      "display": {
+          "icon": {
+            "item": "minecolonies:plate_armor_helmet"
+          },
+          "title": "Maxed out Guard",
+          "description": "Interact with your guard wearing full plate armour, a netherite sword, and a shield",
+          "frame": "challenge",
+          "show_toast": true,
+          "announce_to_chat": true,
+          "hidden": true
+        },
+        "criteria": {
+          "example": {
+            "trigger": "minecraft:player_interacted_with_entity",
+            "conditions": {
+              "entity": {
+                "type": "minecolonies:citizen",
+                "equipment": {
+                    "head": {
+                        "items":["minecolonies:plate_armor_helmet"]
+                    },
+                    "chest": {
+                        "items":["minecolonies:plate_armor_chest"]
+                    },
+                    "legs": {
+                        "items":["minecolonies:plate_armor_legs"]
+                    },
+                    "feet": {
+                        "items":["minecolonies:plate_armor_boots"]
+                    },
+                    "mainhand": {
+                        "items":["minecraft:netherite_sword"]
+                    },
+                    "offhand": {
+                        "items":["minecraft:shield"]
+                    }
+                }
+              }
+            }
+          }
+        }
+    }

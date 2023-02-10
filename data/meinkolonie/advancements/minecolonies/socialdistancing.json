@@ -1,0 +1,25 @@
+{
+  "parent": "minecolonies:minecolonies/root",
+    "display": {
+        "icon": {
+          "item": "minecolonies:blockhuthospital"
+        },
+        "title": "Did you learn nothing?",
+        "description": "Interact with a citizen suffering from a contagious respiratory disease without taking precautions",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+      },
+      "criteria": {
+        "example": {
+          "trigger": "minecraft:player_interacted_with_entity",
+          "conditions": {
+            "entity": {
+              "type": "minecolonies:citizen",
+              "nbt": "{disease:\"Influenza\"}"
+            }
+          }
+        }
+      }
+  }
