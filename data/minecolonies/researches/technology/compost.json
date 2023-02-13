@@ -1,0 +1,25 @@
+{
+    "branch": "minecolonies:technology",
+    "parentResearch": "minecolonies:technology/dung",
+    "researchLevel": 4,
+    "icon": "minecraft:bone",
+    "requirements": [
+      {
+        "item": "minecraft:wheat_seeds",
+        "quantity": 64
+      },
+      {
+        "item": "minecraft:pumpkin_seeds",
+        "quantity": 64
+      },
+      {
+        "item": "minecraft:melon_seeds",
+        "quantity": 64
+      }
+    ],
+    "effects": [
+      {
+        "minecolonies:effects/farmingmultiplier": 3
+      }
+    ]
+  }
