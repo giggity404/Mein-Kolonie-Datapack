@@ -9,5 +9,6 @@
     ],
     "result": "minecraft:birch_wood",
     "count": 1,
-    "intermediate" : "minecraft:air"
+    "intermediate" : "minecraft:air",
+    "research-id": "minecolonies:technology/woodwork"
   }

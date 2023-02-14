@@ -9,7 +9,11 @@
             "level": 5
         },
         {
-            "item": "aquaculture:diamond_fishing_rod",
+            "item": "aquaculture:gold_fishing_rod",
+            "quantity": 1
+        },
+        {
+            "item": "aquaculture:gold_hook",
             "quantity": 1
         }
     ],

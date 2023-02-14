@@ -1,0 +1,31 @@
+{
+    "name": "What is this speed?",
+    "branch": "minecolonies:technology",
+    "parentResearch": "minecolonies:technology/isthisredstone",
+    "researchLevel": 3,
+    "subtitle": "com.minecolonies.research.technology.redstonepowered.subtitle",
+    "icon": "minecraft:redstone_torch",
+    "requirements": [
+      {
+        "item": "minecraft:powered_rail",
+        "quantity": 64
+      },
+      {
+        "item": "minecraft:activator_rail",
+        "quantity": 64
+      },
+      {
+        "item": "minecraft:detector_rail",
+        "quantity": 64
+      },
+      {
+        "item": "minecraft:rail",
+        "quantity": 64
+      }
+    ],
+    "effects": [
+      {
+        "minecolonies:effects/blockbreakspeedmultiplier": 2
+      }
+    ]
+  }

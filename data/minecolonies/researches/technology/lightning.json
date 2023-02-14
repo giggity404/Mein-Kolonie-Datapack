@@ -1,0 +1,38 @@
+{
+    "branch": "minecolonies:technology",
+    "parentResearch": "minecolonies:technology/whatisthisspeed",
+    "researchLevel": 6,
+    "subtitle": "com.minecolonies.research.technology.lightning.subtitle",
+    "icon": "minecraft:repeater",
+    "requirements": [
+      {
+        "item": "minecraft:trident",
+        "quantity": 1
+      },
+      {
+        "item": "minecraft:lightning_rod",
+        "quantity": 1
+      },
+      {
+        "item": "minecraft:copper_block",
+        "quantity": 16
+      },
+      {
+        "item": "minecraft:exposed_copper",
+        "quantity": 16
+      },
+      {
+        "item": "minecraft:weathered_copper",
+        "quantity": 16
+      },
+      {
+        "item": "minecraft:oxidized_copper",
+        "quantity": 16
+      }
+    ],
+    "effects": [
+      {
+        "minecolonies:effects/blockbreakspeedmultiplier": 5
+      }
+    ]
+  }

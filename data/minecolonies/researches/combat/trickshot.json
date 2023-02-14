@@ -1,0 +1,25 @@
+{
+    "branch": "minecolonies:combat",
+    "parentResearch": "minecolonies:combat/improvedbows",
+    "researchLevel": 3,
+    "icon": "minecraft:arrow",
+    "requirements": [
+      {
+        "building": "archery",
+        "level": 3
+      },
+      {
+        "item": "minecraft:bow",
+        "quantity": 1
+      },
+      {
+        "item": "minecraft:arrow",
+        "quantity": 64
+      }
+    ],
+    "effects": [
+      {
+        "minecolonies:effects/doublearrowsmultiplier": 1
+      }
+    ]
+  }

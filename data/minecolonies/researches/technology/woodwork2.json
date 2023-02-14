@@ -1,0 +1,18 @@
+{
+    "name":"Woodwork",
+    "branch": "minecolonies:technology",
+    "researchLevel": 1,
+    "subtitle": "The lumberjack can strip logs and craft logs into wood",
+    "sortOrder": 3,
+    "icon": "minecolonies:blockhutsawmill",
+    "requirements": [
+      {
+        "building": "lumberjack",
+        "level": 1
+      },
+      {
+        "item": "minecraft:oak_planks",
+        "quantity": 64
+      }
+    ]
+  }

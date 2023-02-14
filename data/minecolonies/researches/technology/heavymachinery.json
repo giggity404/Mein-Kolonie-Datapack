@@ -1,0 +1,22 @@
+{
+    "name": "Redstone powered",
+    "branch": "minecolonies:technology",
+    "parentResearch": "minecolonies:technology/redstonepowered",
+    "researchLevel": 4,
+    "icon": "minecraft:redstone_block",
+    "requirements": [
+      {
+        "item": "minecraft:comparator",
+        "quantity": 64
+      },
+      {
+        "item": "minecraft:repeater",
+        "quantity": 64
+      }
+    ],
+    "effects": [
+      {
+        "minecolonies:effects/blockbreakspeedmultiplier": 3
+      }
+    ]
+  }

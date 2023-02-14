@@ -22,5 +22,6 @@
     ],
     "result": "minecraft:stripped_dark_oak_log",
     "count": 1,
-    "intermediate" : "minecraft:air"
+    "intermediate" : "minecraft:air",
+    "research-id": "minecolonies:technology/woodwork"
   }
