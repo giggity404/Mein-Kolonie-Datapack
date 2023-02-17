@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "nourished_nether:sludge_brick",
+        "nourished_nether:cracked_sludge_bricks",
+        "nourished_nether:glowing_obsidian"
+    ]
+  }

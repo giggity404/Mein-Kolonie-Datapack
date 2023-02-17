@@ -1,6 +1,8 @@
 {
     "replace": false,
     "values": [
-        "jrftl:prepared_flesh"
+        "jrftl:prepared_flesh",
+        "nourished_nether:basalt_redstone_ore",
+        "nourished_nether:soul_quartz_ore"
     ]
   }

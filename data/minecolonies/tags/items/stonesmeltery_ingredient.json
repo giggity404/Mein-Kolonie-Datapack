@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "nourished_nether:soul_quartz_bricks",
+        "nourished_nether:soul_quartz_block",
+        "nourished_nether:basaltic_iron",
+        "nourished_nether:warped_bricks",
+        "minecraft:red_nether_bricks",
+        "nourished_nether:obsidian_bricks",
+        "minecraft:quartz_bricks"
+    ]
+  }

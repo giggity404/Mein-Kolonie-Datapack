@@ -1,0 +1,24 @@
+{
+    "replace": false,
+    "values": [
+        "nourished_nether:sludge_ball",
+        "nourished_nether:sludge_bricks",
+        "nourished_nether:sludge_brick",
+        "nourished_nether:soul_quartz_block",
+        "nourished_nether:soul_quartz_bricks",
+        "nourished_nether:soul_quartz_slab",
+        "nourished_nether:smooth_soul_quartz",
+        "nourished_nether:soul_quartz",
+        "nourished_nether:warped_nether_brick",
+        "nourished_nether:warped_bricks",
+        "nourished_nether:warped_brick_slab",
+        "nourished_nether:red_nether_brick_slab",
+        "minecraft:obsidian",
+        "nourished_nether:rough_obsidian",
+        "nourished_nether:obsidian_brick_slab",
+        "nourished_nether:obsidian_bricks",
+        "minecraft:quartz_bricks",
+        "minecraft:quartz_block"
+
+    ]
+}

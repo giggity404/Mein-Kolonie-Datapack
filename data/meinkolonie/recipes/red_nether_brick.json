@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "IN ",
+      "NI ",
+      "   "
+    ],
+    "key": {
+      "N": {
+        "item": "minecraft:nether_brick"
+      },
+      "I": {
+        "item": "minecraft:nether_wart"
+      }
+    },
+    "result": {
+      "item": "minecraft:red_nether_bricks"
+    }
+  }
