@@ -1,0 +1,29 @@
+{
+    "branch": "minecolonies:technology",
+    "parentResearch": "minecolonies:technology/morescrolls",
+    "name": "Swifty",
+    "researchLevel": 2,
+    "requirements": [
+        {
+            "building": "enchanter",
+            "level": 3
+        },
+        {
+            "item": "minecraft:sculk_shrieker",
+            "quantity": 1
+        },
+        {
+            "item": "minecraft:sculk_sensor",
+            "quantity": 4
+        },
+        {
+            "item": "minecraft:sculk",
+            "quantity": 16
+        }
+    ],
+    "effects": [
+        {
+          "meinkolonie:effects/swiftsneak": 1
+        }
+    ]
+}
