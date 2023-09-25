@@ -21,7 +21,7 @@ A datapack integrating several mods from the [Mein-Kolonie Modpack](https://www.
 
 
 #### New Advancments
--Added hidden advancements for poor colony management, eg citizen abuse
--Added guard armor achievements, triggered by interacting with them when wearing it (full gold, full diamond, full netherite, full plate with netherite sword & shield)
--Added raid loot advancement for scimitar, spear and spectre
--Added location advancement for walking through a naturally gen abandoned colony
+-Added hidden advancements for poor colony management, eg citizen abuse  
+-Added guard armor achievements, triggered by interacting with them when wearing it (full gold, full diamond, full netherite, full plate with netherite sword & shield)  
+-Added raid loot advancement for scimitar, spear and spectre  
+-Added location advancement for walking through a naturally gen abandoned colony  
