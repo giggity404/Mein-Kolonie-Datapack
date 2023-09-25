@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 10,
-        "description": "A datapack integrating several mods from the Mein-Kolonie modpack with minecolonies"
+        "pack_format": 15,
+        "description": "A datapack integrating several mods from the Mein-Kolonie modpack with minecolonies. For minecraft 1.20.1"
     }
 }

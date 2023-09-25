@@ -2,7 +2,6 @@
     "replace": false,
     "values": [
         "minecraft:blaze_rod",
-        "minecraft:blaze_powder",
-        "smallships:sail_item"
+        "minecraft:blaze_powder"
     ]
   }

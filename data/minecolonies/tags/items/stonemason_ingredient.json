@@ -12,13 +12,13 @@
         "nourished_nether:warped_nether_brick",
         "nourished_nether:warped_bricks",
         "nourished_nether:warped_brick_slab",
-        "nourished_nether:red_nether_brick_slab",
+        "minecraft:red_nether_brick_slab",
+        "minecraft:red_nether_bricks",
         "minecraft:obsidian",
         "nourished_nether:rough_obsidian",
         "nourished_nether:obsidian_brick_slab",
         "nourished_nether:obsidian_bricks",
         "minecraft:quartz_bricks",
         "minecraft:quartz_block"
-
     ]
 }
